@@ -5,7 +5,6 @@
 > Demo desplegada en
 > - [Fly.io](https://tiendabackend.fly.dev)
 > - [Render](https://tiendabackend.onrender.com)
-> - [Railway](https://tiendabackend.up.railway.app/)
 > - [Cyclic](https://tiendabackend.cyclic.app/)
 >
 > A tener en cuenta:
